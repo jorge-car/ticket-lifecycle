@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 <h3>Intake</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/wB4Y4VCW/2022-11-02-25.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>The ticket is created by someone in the company needing help. starting the first step when dealing with personel in the company. For example the photo above shows three diffrent tickets with diffrent levels of severity. when getting mutiply tickets identifying the severity of each ticket and starting with the most severe is how you wanna get started with dealing with these tickets. Leaving Severe cases for last can cause major issue in a company espically if SLA is not being followed. If tickets are of similar cases going by ticket age is a great way to tackle them.
 
