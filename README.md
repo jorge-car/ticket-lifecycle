@@ -27,30 +27,28 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>The ticket is created by someone in the company needing help. starting the first step when dealing with personel in the company. For example the photo above shows three diffrent tickets with diffrent levels of severity. when getting mutiply tickets identifying the severity of each ticket and starting with the most severe is how you wanna get started with dealing with these tickets. Leaving Severe cases for last can cause major issue in a company espically if SLA is not being followed. If tickets are of similar cases going by ticket age is a great way to tackle them.
+
 </p>
 <br />
 <h3>Assignment and Communication</h3>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>The queue manager is usally the one responable for assigning tickets to agents/helpdesk/techs in the company depending on their severity level. Depending on the software personal can set thier own severity which in some cases is not as severe as the personal is making it seem to be. Being able to determine severity level and their important is great for being effeint and knocking out tickets are actully needing imdiate attention. 
 </p>
 <br />
 <h3>Working the Issue</h3>
-<p>
+<p>When recieving a ticket to work through communication with the end user is important espically in higher severity casee. Even if no progress has been made its important to keep in contant with the end user. Using your IT skills you find the issues and fix it depending on the problem. Even if you dont know being able to reserch solutions or asking co-workers can be very benficial to advace your understanding in IT.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 <h3>Resolution</h3>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>Once the solution is done and no issues are found 
 </p>
