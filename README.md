@@ -50,5 +50,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Once the solution is done and no issues are found 
+<p>Once the solution is done and no issues are found depending on the company and how things are done. Reporting to a higher up that the ticket is closed or closing the ticket yourself indicated its done and completed. Contact the end user who opened the ticket and let them know their issue is resolved. Then follow company proccedures on what to do after the ticket is closed. 
 </p>
+<h4>showing the basic understanding of how a ticket is created to when its closed was the goal of this project :)</4>
