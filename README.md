@@ -40,15 +40,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 <h3>Working the Issue</h3>
 <p>When recieving a ticket to work through communication with the end user is important espically in higher severity casee. Even if no progress has been made its important to keep in contant with the end user. Using your IT skills you find the issues and fix it depending on the problem. Even if you dont know being able to reserch solutions or asking co-workers can be very benficial to advace your understanding in IT.
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+<img src="https://i.postimg.cc/Hk8CvK0V/2022-11-02-36.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <h3>Resolution</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>Once the solution is done and no issues are found depending on the company and how things are done. Reporting to a higher up that the ticket is closed or closing the ticket yourself indicated its done and completed. Contact the end user who opened the ticket and let them know their issue is resolved. Then follow company proccedures on what to do after the ticket is closed. 
 </p>
