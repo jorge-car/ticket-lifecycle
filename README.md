@@ -35,7 +35,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 <img src="https://i.postimg.cc/5t56HjR5/2022-11-02-30.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>The queue manager is usally the one responable for assigning tickets to agents/helpdesk/techs in the company depending on their severity level. Depending on the software personal can set thier own severity which in some cases is not as severe as the personal is making it seem to be. Being able to determine severity level and their important is great for being effeint and knocking out tickets are actully needing imdiate attention. 
+<p>The queue manager is usally the one responable for assigning tickets to agents/helpdesk/techs in the company depending on their severity level. Depending on the software personal can set thier own severity which in some cases is not as severe as the personal is making it seem to be. Being able to determine severity level and their important is great for being effcient and knocking out tickets are actully needing attention. 
 </p>
 <br />
 <h3>Working the Issue</h3>
@@ -51,4 +51,4 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>Once the solution is done and no issues are found depending on the company and how things are done. Reporting to a higher up that the ticket is closed or closing the ticket yourself indicated its done and completed. Contact the end user who opened the ticket and let them know their issue is resolved. Then follow company proccedures on what to do after the ticket is closed. 
 </p>
-<h4>showing the basic understanding of how a ticket is created to when its closed was the goal of this project :)</4>
+<h4>This outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket :)</4>
